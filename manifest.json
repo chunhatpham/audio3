@@ -1,0 +1,20 @@
+{
+  "name": "ChuNhatPham - Xem Phim",
+  "short_name": "ChuNhatPham",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b0b0c",
+  "theme_color": "#e50914",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/BZTQdwdb/56575EA9-6C1E-453E-A0EE-628BF972D3E7.png?=V2",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.postimg.cc/BZTQdwdb/56575EA9-6C1E-453E-A0EE-628BF972D3E7.png?=V2",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
